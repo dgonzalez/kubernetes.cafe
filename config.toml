@@ -1,4 +1,28 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.kubernetes.cafe"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kubernetes Cafe"
 theme = "hugo-cards"
+builtBy = false
+
+[params]
+  builtBy = "dgonzalez"
+  defaultImage = "kubernetes.png"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com/bul_ikana"
+  github = "http://github.com/bul-ikana"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = "UA-22808190-2"
+  disqus = ""
+
+  [params.copyright]
+     name = "David Gonzalez"
+     link = "http://www.kubernetes.cafe"
+

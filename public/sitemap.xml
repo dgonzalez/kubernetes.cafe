@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.kubernetes.cafe/pages/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.kubernetes.cafe/pages/jobs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.kubernetes.cafe/pages/me/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.kubernetes.cafe/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.kubernetes.cafe/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.kubernetes.cafe/pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.kubernetes.cafe/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
