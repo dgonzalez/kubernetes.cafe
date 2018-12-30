@@ -6,13 +6,13 @@ jobs:
     steps:
       - checkout
       - run: 
-        name: Installing dependencies
-        command: |
-          pip install pyopenssl
-          export CLOUD_SDK_SITEPACKAGES=1
-          echo $GCP_SERVICE_KEY_FILE_JSON | gcloud auth activate-service-account --key-file=-
-          gcloud --quiet config set project kubernetes-cafe
-          gcloud --quiet config set compute/zone eu-west-1
-          apt update
-          apt install hugo
+          name: Installing dependencies
+          command: |
+            pip install pyopenssl
+            export CLOUD_SDK_SITEPACKAGES=1
+            echo $GCP_SERVICE_KEY_FILE_JSON | gcloud auth activate-service-account --key-file=-
+            gcloud --quiet config set project kubernetes-cafe
+            gcloud --quiet config set compute/zone eu-west-1
+            apt update
+            apt install hugo
           
