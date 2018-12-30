@@ -8,6 +8,6 @@ jobs:
       - run: |
           pip install pyopenssl
           export CLOUD_SDK_SITEPACKAGES=1
-          echo $GCP_SERVICE_KEY_FILE_JSON | gcloud auth activate-service-account circle-ci --key-file=-
+          echo $GCP_SERVICE_KEY_FILE_JSON | gcloud auth activate-service-account --key-file=-
           gcloud --quiet config set project kubernetes-cafe
           gcloud --quiet config set compute/zone eu-west-1
