@@ -15,4 +15,13 @@ jobs:
             gcloud --quiet config set compute/zone eu-west-1
             apt update
             apt install hugo
+      - run:
+          name: Init submodules
+          command: git submodule init
+      - run:
+          name: Generate site
+          command: hugo
+      - run:
+          name: Push site
+          command: gsutil -m rsync -R  public gs://www.kubernetes.cafe
           
