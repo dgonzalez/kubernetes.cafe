@@ -6,9 +6,19 @@
     <description>Recent content on Kubernetes Cafe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 02:02:12 +0000</lastBuildDate>
     
 	<atom:link href="http://www.kubernetes.cafe/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://www.kubernetes.cafe/posts/my-first-post/</link>
+      <pubDate>Sat, 29 Dec 2018 02:02:12 +0000</pubDate>
+      
+      <guid>http://www.kubernetes.cafe/posts/my-first-post/</guid>
+      <description>Hugo test</description>
+    </item>
     
     <item>
       <title></title>
@@ -16,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.kubernetes.cafe/pages/contact/</guid>
-      <description></description>
+      <description>Hola</description>
     </item>
     
     <item>

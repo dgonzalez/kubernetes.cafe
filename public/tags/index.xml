@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Kubernetes Cafe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 02:02:12 +0000</lastBuildDate>
     
 	<atom:link href="http://www.kubernetes.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bananas</title>
+      <link>http://www.kubernetes.cafe/tags/bananas/</link>
+      <pubDate>Sat, 29 Dec 2018 02:02:12 +0000</pubDate>
+      
+      <guid>http://www.kubernetes.cafe/tags/bananas/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

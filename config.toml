@@ -4,14 +4,19 @@ title = "Kubernetes Cafe"
 theme = "hugo-cards"
 builtBy = false
 
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
 [params]
   builtBy = "dgonzalez"
   defaultImage = "kubernetes.png"
 
   facebook = ""
   quora = ""
-  twitter = "http://twitter.com/bul_ikana"
-  github = "http://github.com/bul-ikana"
+  twitter = "http://twitter.com/dagonzago"
+  github = "http://github.com/dgonzalez"
   email = ""
 
   fbLikeBox = ""

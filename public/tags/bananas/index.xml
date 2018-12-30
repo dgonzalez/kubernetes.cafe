@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bananas on Kubernetes Cafe</title>
+    <link>http://www.kubernetes.cafe/tags/bananas/</link>
+    <description>Recent content in Bananas on Kubernetes Cafe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 02:02:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.kubernetes.cafe/tags/bananas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://www.kubernetes.cafe/posts/my-first-post/</link>
+      <pubDate>Sat, 29 Dec 2018 02:02:12 +0000</pubDate>
+      
+      <guid>http://www.kubernetes.cafe/posts/my-first-post/</guid>
+      <description>Hugo test</description>
+    </item>
+    
+  </channel>
+</rss>
