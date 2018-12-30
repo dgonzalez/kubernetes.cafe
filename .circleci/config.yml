@@ -6,6 +6,6 @@ jobs:
     steps:
       - checkout
       - run: |
-          echo $GCLOUD_SERVICE_KEY | gcloud auth activate-service-account --key-file=-
+          echo $GCLOUD_SERVICE_KEY | gcloud auth activate-service-account circle-ci --key-file=-
           gcloud --quiet config set project kubernetes-cafe
           gcloud --quiet config set compute/zone eu-west-1
