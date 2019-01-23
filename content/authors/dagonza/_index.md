@@ -5,4 +5,3 @@ twitter: "@dagonzago"
 ---
 
 David Gonzalez is a DevOps enthusiast author of several books currently working as DevOps Consultant at NearForm
-
