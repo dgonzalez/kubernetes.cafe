@@ -22,6 +22,15 @@
     
     <item>
       <title></title>
+      <link>http://www.kubernetes.cafe/pages/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.kubernetes.cafe/pages/consulting/</guid>
+      <description>Test</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://www.kubernetes.cafe/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -31,20 +40,11 @@
     
     <item>
       <title></title>
-      <link>http://www.kubernetes.cafe/pages/jobs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.kubernetes.cafe/pages/jobs/</guid>
-      <description>Test</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://www.kubernetes.cafe/pages/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.kubernetes.cafe/pages/me/</guid>
-      <description> Hola </description>
+      <description> Who am I?  Hola  </description>
     </item>
     
   </channel>
