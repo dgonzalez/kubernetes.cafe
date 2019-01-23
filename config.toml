@@ -29,5 +29,5 @@ builtBy = false
 
   [params.copyright]
      name = "David Gonzalez"
-     link = "http://www.kubernetes.cafe"
+     link = "http://www.kubernetes.cafe/"
 
