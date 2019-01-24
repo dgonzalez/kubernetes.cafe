@@ -1,4 +1,4 @@
-baseURL = "http://www.kubernetes.cafe"
+baseURL = "http://www.kubernetes.cafe/"
 languageCode = "en-us"
 title = "Kubernetes Cafe"
 theme = "hugo-cards"
